@@ -1,6 +1,6 @@
 ### Belem Hernández Arriaga 👋
 
-<!--
+
 **BH --**
 
 
@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 <p align="center">
 Soy una Ingeniera
 </p>
+<font color="green"> Some green text </font>
 
 
 
@@ -22,6 +23,7 @@ I am learninig React
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
+<font color="green"> Some green text </font>
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
