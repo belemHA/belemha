@@ -11,8 +11,10 @@
 ![lava](https://github.com/belemHA/belemha/blob/main/263505603_590760338893560_2701248863932379303_n.png)
 
 
-<br>
-![imgaenprueba]("https://github.com/belemHA/belemha/blob/035d9a2696f143f48a5c3fa71197d3d1a19e8ceb/Azur%20Lane.jpg" width="900" height="500" align="center" title="Github Logo")
+<br />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?belemHA=anuraghazra&show_icons=true&theme=radical)
+
+
 
 
 **BH 
