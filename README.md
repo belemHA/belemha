@@ -1,5 +1,15 @@
 ### Belem Hernández
 ![Imagen de fondo](https://github.com/belemHA/belemha/blob/035d9a2696f143f48a5c3fa71197d3d1a19e8ceb/Azur%20Lane.jpg)
+<br />
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+<!--
+
+<br>
+img src="https://user-images.githubusercontent.com/86276089/139567519-cdd4b09f-8082-4205-8353-0dbdeea16dff.png" width="1056" height="500" align="center" title="Github Logo">
 
 
 **BH 
