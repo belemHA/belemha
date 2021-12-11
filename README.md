@@ -4,8 +4,9 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 <img src="https://scontent.fmex3-1.fna.fbcdn.net/v/t1.15752-9/263505603_590760338893560_2701248863932379303_n.png?_nc_cat=106&ccb=1-5&_nc_sid=ae9488&_nc_ohc=yHsj1h-dozAAX-Ln1qw&tn=Wve3u5Sp5GV2dv_q&_nc_ht=scontent.fmex3-1.fna&oh=217492cc4384145affa98edd124745e0&oe=61DA0515" width="75" height="30">
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
 
 ## Statistics
 ![Belem's GitHub stats](https://github-readme-stats.vercel.app/api?username=belemHA&show_icons=true&theme=radical)
