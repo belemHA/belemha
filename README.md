@@ -1,6 +1,8 @@
 ### Belem Hernández
 ![Imagen de fondo](https://github.com/belemHA/belemha/blob/main/BellHer02.png)
 <br />
+![Imagen de fondo](https://i.blogs.es/8d2420/650_1000_java/1366_2000.png)
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -18,9 +20,6 @@
 -<ul>
  -    <li> Linea 1</li>
 -<ul>
- 
- ###Mis estadísticas
- 
      
 
 
