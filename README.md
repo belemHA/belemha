@@ -9,13 +9,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![lava](https://github.com/belemHA/belemha/blob/main/263505603_590760338893560_2701248863932379303_n.png)
-
-
-<br />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?belemHA=anuraghazra&show_icons=true&theme=radical)
-
-
-
 
 **BH 
 -Found Me: https://twitter.com/BelemHe90992719
