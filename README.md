@@ -7,23 +7,19 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 <br />
 ## Estadistics
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=belemHA&show_icons=true&theme=radical)
+![Belem's GitHub stats](https://github-readme-stats.vercel.app/api?username=belemHA&show_icons=true&theme=radical)
 <br />
-<br />
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
 
 ## Found Me
 <ul>
-<li> https://twitter.com/BelemHe90992719 </li>
-<li> www.linkedin.com/in/belem-hernandez-33b7141bb </li>
+<li><img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" width="25" height="25" > https://twitter.com/BelemHe90992719 </li>
+<li><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="25" height="25"> https:www.linkedin.com/in/belem-hernandez-33b7141bb </li>
 </ul>
 
 ## I am learning
 
-<img src="https://cdn-icons.flaticon.com/png/512/1183/premium/1183672.png?token=exp=1639195964~hmac=14ad47a27e1d37d1db0a7217da234964" width="50" height="50" align="center" title="Github Logo">
+<img src="https://cdn-icons.flaticon.com/png/512/1183/premium/1183672.png?token=exp=1639195964~hmac=14ad47a27e1d37d1db0a7217da234964" width="150" height="150" align="center" title="Github Logo">
 
 ## My small history
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Escudo-UNAM-escalable.svg/1200px-Escudo-UNAM-escalable.svg.png" width="20" height="20"> I am an Computer Engiiner.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Escudo-UNAM-escalable.svg/1200px-Escudo-UNAM-escalable.svg.png" width="25" height="30"> I am an Computer Engiiner.
 
