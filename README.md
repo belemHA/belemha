@@ -19,7 +19,7 @@
 
 ## I am learning
 
-<img src="https://cdn-icons.flaticon.com/png/512/1183/premium/1183672.png?token=exp=1639195964~hmac=14ad47a27e1d37d1db0a7217da234964" width="150" height="150" align="center" title="Github Logo">
+<img src="https://cdn-icons.flaticon.com/png/512/1183/premium/1183672.png?token=exp=1639195964~hmac=14ad47a27e1d37d1db0a7217da234964" width="50" height="50" align="center" title="Github Logo">
 
 ## My small history
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Escudo-UNAM-escalable.svg/1200px-Escudo-UNAM-escalable.svg.png" width="25" height="30"> I am a Computer Engiiner.
