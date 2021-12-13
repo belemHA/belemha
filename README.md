@@ -1,4 +1,4 @@
-<img src="https://github.com/belemHA/belemha/blob/main/BellHer02.png" width="950" height="250" align="center">
+<img src="https://github.com/belemHA/belemha/blob/main/BellHer02.png" width="500" height="350" align="center">
 <br />
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
